@@ -16,26 +16,26 @@ Recommendations may suggest improvements for user experience and content offerin
 4. Clustering similar content by matching text-based features
 
 # **Attribute Information**
-1. show_id : Unique ID for every Movie / Tv Show
+1. **show_id** : Unique ID for every Movie / Tv Show
 
-2. type : Identifier - A Movie or TV Show
+2. **type** : Identifier - A Movie or TV Show
 
-3. title : Title of the Movie / Tv Show
+3. **title** : Title of the Movie / Tv Show
 
-4. director : Director of the Movie
+4. **director** : Director of the Movie
 
-5. cast : Actors involved in the movie / show
+5. **cast** : Actors involved in the movie / show
 
-6. country : Country where the movie / show was produced
+6. **country** : Country where the movie / show was produced
 
-7. date_added : Date it was added on Netflix
+7. **date_added** : Date it was added on Netflix
 
-8. release_year : Actual Releaseyear of the movie / show
+8. **release_year** : Actual Releaseyear of the movie / show
 
-9. rating : TV Rating of the movie / show
+9. **rating** : TV Rating of the movie / show
 
-10. duration : Total Duration - in minutes or number of seasons
+10. **duration** : Total Duration - in minutes or number of seasons
 
-11. listed_in : Genere
+11. **listed_in** : Genere
 
-12. description: The Summary description
+12. **description** : The Summary description
