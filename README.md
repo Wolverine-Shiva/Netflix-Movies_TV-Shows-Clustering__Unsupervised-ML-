@@ -1,5 +1,5 @@
 # Netflix-Movies_TV-Shows-Clustering__Unsupervised-ML-
-This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
+
 ![image](https://github.com/Wolverine-Shiva/Netflix-Movies_TV-Shows-Clustering__Unsupervised-ML-/assets/132210827/10c3ff6f-cb3d-4b2a-a615-43643afd19e6)
 Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg
 # **Project Summary -**
