@@ -1,2 +1,8 @@
 # Netflix-Movies_TV-Shows-Clustering__Unsupervised-ML-
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
+![image](https://github.com/Wolverine-Shiva/Netflix-Movies_TV-Shows-Clustering__Unsupervised-ML-/assets/132210827/10c3ff6f-cb3d-4b2a-a615-43643afd19e6)
+Image Courtesy: https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg
+# **Project Summary -**
+The project aims to **analyze and cluster a Netflix dataset**, consisting of attributes like: title, genre, release year, etc. Initial steps involve preprocessing, handling missing values, and transforming categorical variables. **Exploratory Data Analysis (EDA)** techniques will provide insights into variable distributions and relationships. Subsequently, **clustering algorithms** like **k-means** will group similar shows and movies, determining optimal clusters. The results will be evaluated to understand common characteristics within each group, aiding Netflix in content categorization and recommendation systems. Findings will be summarized concisely, using visualizations to communicate effectively.
+Recommendations may suggest improvements for user experience and content offerings. Ultimately, the project will enhance understanding of Netflix's content landscape, facilitating informed decision-making for the company.
+**In conclusion, this project aims to analyze a Netflix dataset, perform clustering techniques to group similar shows and movies together, and provide insights and recommendations based on the clustering results. The project will contribute to a better understanding of Netflix's content landscape and aid in decision-making processes for the company**.
